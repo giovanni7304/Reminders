@@ -847,31 +847,5 @@
             </objects>
             <point key="canvasLocation" x="74" y="702"/>
         </scene>
-        <!--View Controller-->
-        <scene sceneID="Gm8-ZZ-bG5">
-            <objects>
-                <viewController id="KcD-gr-W0W" sceneMemberID="viewController">
-                    <view key="view" id="1tF-Pd-7oM">
-                        <rect key="frame" x="0.0" y="0.0" width="450" height="300"/>
-                        <autoresizingMask key="autoresizingMask"/>
-                    </view>
-                </viewController>
-                <customObject id="X86-vG-XaY" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="710" y="739"/>
-        </scene>
-        <!--View Controller-->
-        <scene sceneID="lJw-cB-rIb">
-            <objects>
-                <viewController id="z6q-ZT-wRZ" sceneMemberID="viewController">
-                    <view key="view" id="ssy-yA-6LV">
-                        <rect key="frame" x="0.0" y="0.0" width="450" height="300"/>
-                        <autoresizingMask key="autoresizingMask"/>
-                    </view>
-                </viewController>
-                <customObject id="PTk-6V-912" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="710" y="1246"/>
-        </scene>
     </scenes>
 </document>
